@@ -1,7 +1,7 @@
 <NotepadPlus>
     <UserLang name="Kusto Query Language" ext="kql" udlVersion="2.1">
         <Settings>
-            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Global caseIgnored="yes" allowFoldOfComments="yes" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
         </Settings>
         <KeywordLists>
@@ -10,10 +10,10 @@
             <Keywords name="Numbers, prefix2"></Keywords>
             <Keywords name="Numbers, extras1"></Keywords>
             <Keywords name="Numbers, extras2"></Keywords>
-            <Keywords name="Numbers, suffix1">s m d w y</Keywords>
+            <Keywords name="Numbers, suffix1">s m d w y </Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">| = &gt; &lt; ( ) [ ] / ! * +</Keywords>
+            <Keywords name="Operators1">| = &gt; &lt; ( ) [ ] / ! * + ;</Keywords>
             <Keywords name="Operators2">contains endswith startswith and -</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -25,7 +25,7 @@
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">&quot;project-away&quot; where project order where limit summarize join kind  top consume distinct evaluate extend externaldata facet find fork getschema invoke lookup order parse partition range reduce render sample search serialize sort take  union</Keywords>
-            <Keywords name="Keywords2">sum avg min max bin by on desc ago top timechart let round count strcat alias database cluster declare pattern outer fullouter inner now percentile print external_table materialize table toscalar hash</Keywords>
+            <Keywords name="Keywords2">sum avg min max bin by on desc ago top timechart let round count strcat alias database cluster declare pattern outer fullouter inner leftsemi now percentile print external_table materialize table toscalar hash datetime isnotempty isnotnull</Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4"></Keywords>
             <Keywords name="Keywords5"></Keywords>
@@ -38,7 +38,7 @@
             <WordsStyle name="DEFAULT" fgColor="800080" bgColor="FFFFFF" fontStyle="0" nesting="0" />
             <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
             <WordsStyle name="LINE COMMENTS" fgColor="008040" bgColor="FFFFFF" fontStyle="0" nesting="0" />
-            <WordsStyle name="NUMBERS" fgColor="800000" bgColor="FFFFFF" fontStyle="5" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="800000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS1" fgColor="FF0000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
