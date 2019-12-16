@@ -19,8 +19,8 @@ I'll be sharing my extensions for Finance and Operations (Dynamics 365)
 
 ## Comments? Suggestions?
 
-* Comment? ping me on twitter: @jaestevan(https://twitter.com/jaestevan)
-* Improvements? Clone (https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) or Fork (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks) + Pull Request (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+* Comment? ping me on twitter: [@jaestevan](https://twitter.com/jaestevan)
+* Improvements? [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) or [Fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks) + [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 # DISCLAIMER:
 
