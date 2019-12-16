@@ -19,10 +19,9 @@ I'll be sharing my extensions for Finance and Operations (Dynamics 365)
 
 ## Comments? Suggestions?
 
-Any comment, ping me on twitter: @jaestevan
+* Comment? ping me on twitter: @jaestevan(https://twitter.com/jaestevan)
+* Improvements? Clone (https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) or Fork (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks) + Pull Request (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
-Improvements? Send a pull request.
+# DISCLAIMER:
 
-## DISCLAIMER:
-
-These files are provided as-is and no guarantee implicit or explicit is given. I know the formatting is not perfect, but is good enough for me to get a quick look on files directly from N++. If you have any improvement feel free to send a pull request.
+These files are provided as-is and no guarantee implicit or explicit is given. I know the formatting is not perfect, but is good enough for me to get a quick look on files directly from N++. I keep updating it constantly so be sure you came and get the last version often.

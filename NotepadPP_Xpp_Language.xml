@@ -30,7 +30,7 @@
             <Keywords name="Keywords4">abstract static class private public protected internal void this extends implements super const changeCompany crossCompany delegate display edit eventHandler interface</Keywords>
             <Keywords name="Keywords5">maxDate fieldStr datetime2str</Keywords>
             <Keywords name="Keywords6">client server window pause print #obsolete SysObsolete SysObsoleteAttribute</Keywords>
-            <Keywords name="Keywords7">Types NoYesId String Set List Map Struct Binary BinData CryptoBlob DictTable Common Object Exception</Keywords>
+            <Keywords name="Keywords7">Types NoYesId String Set List Map Struct Binary BinData CryptoBlob DictTable Common Object Exception CLRObject</Keywords>
             <Keywords name="Keywords8">SOURCE&#x000D;&#x000A;ENDSOURCE&#x000D;&#x000A;</Keywords>
             <Keywords name="Delimiters">00&quot;@ 01 02&quot; 03&apos;@ 04 05&apos; 06&quot; 07 08&quot; 09&apos; 10 11&apos; 12@&quot; 13 14&quot; 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
